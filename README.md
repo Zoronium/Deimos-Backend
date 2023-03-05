@@ -117,4 +117,4 @@ https://Deimos-backend.zoronium.repl.co
 
 Repo : https://github.com/Zoronium/Deimos
 
-Deployment : 
+Deployment : https://deimos-cupdv0cej-zoronium.vercel.app/
